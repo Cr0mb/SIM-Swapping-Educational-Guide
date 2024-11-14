@@ -45,7 +45,7 @@ In addition to physical access, SIM swapping may be conducted through various ot
    Attackers often start by gathering information about a victim to impersonate them with the mobile carrier. Common information includes:
 
    - **Full Name**: Often available from social media or public records.
-   - **Phone Number**: Listed on profiles or available through data breaches.
+   - **Phone Number**: Listed on profiles or available through data breaches. Sometimes found on job sites like indeed or linkedin.
    - **Address**: Sourced from public records or online data.
    - **Birth Date**: Frequently accessible through social media.
    - **Email Address**: Located on profiles, forums, or public websites.
