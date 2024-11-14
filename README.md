@@ -108,9 +108,9 @@ To protect against SIM swapping, follow these recommended practices:
 
 ## Additional Resources
 
-- [FCC Guide on SIM Swapping](https://www.fcc.gov/sim-swap-scams-how-protect-yourself)
+- [FCC Guide on SIM Swapping](https://www.fcc.gov/consumer-governmental-affairs/fcc-announces-effective-compliance-date-sim-swapping-item)
 - [NIST Recommendations for Strong Authentication](https://pages.nist.gov/800-63-3/)
-- [StaySafeOnline - SIM Swapping Prevention](https://staysafeonline.org/sim-swapping-prevention/)
+- [StaySafeOnline - SIM Swapping Prevention](https://staysafeonline.org/resources/sim-card-swap-scams/)
 
 ---
 
